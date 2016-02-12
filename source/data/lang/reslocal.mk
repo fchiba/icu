@@ -1,0 +1,7 @@
+LANG_SYNTHETIC_ALIAS = ja_JP.txt ja_JP_TRADITIONAL.txt
+
+LANG_ALIAS_SOURCE = $(LANG_SYNTHETIC_ALIAS)
+
+LANG_SOURCE = en.txt \
+ es_US.txt \
+ ja.txt
