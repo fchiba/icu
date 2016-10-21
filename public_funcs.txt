@@ -236,6 +236,10 @@ utext_setNativeIndex_54
 utf8_back1SafeBody_54
 utf8_nextCharSafeBody_54
 utf8_prevCharSafeBody_54
+utrans_close_54
+utrans_openIDs_54
+utrans_openU_54
+utrans_trans_54
 utrie2_close_54
 utrie2_enumForLeadSurrogate_54
 utrie2_enum_54
