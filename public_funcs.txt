@@ -7,6 +7,7 @@ u_charType_54
 u_charsToUChars_54
 u_errorName_54
 u_foldCase_54
+u_formatMessage_54
 u_getPropertyValueEnum_54
 u_hasBinaryProperty_54
 u_isUWhiteSpace_54
@@ -35,6 +36,7 @@ ucal_clone_54
 ucal_close_54
 ucal_getAttribute_54
 ucal_getGregorianChange_54
+ucal_getKeywordValuesForLocale_54
 ucal_getLimit_54
 ucal_getMillis_54
 ucal_getNow_54
@@ -56,6 +58,8 @@ ucsdet_enableInputFilter_54
 ucsdet_getName_54
 ucsdet_open_54
 ucsdet_setText_54
+ucurr_getName_54
+ucurr_openISOCurrencies_54
 udat_applyPatternRelative_54
 udat_applyPattern_54
 udat_clone_54
@@ -131,6 +135,11 @@ uloc_getTableStringWithFallback_54
 uloc_getVariant_54
 uloc_minimizeSubtags_54
 uloc_setKeywordValue_54
+ulocdata_close_54
+ulocdata_getDelimiter_54
+ulocdata_getExemplarSet_54
+ulocdata_getMeasurementSystem_54
+ulocdata_open_54
 umtx_lock_54
 umtx_unlock_54
 unum_applyPattern_54
